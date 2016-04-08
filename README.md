@@ -25,7 +25,7 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 
 ## Hints
 Dedicated server has runned in other screen (screen name is **ioq3ded**)  
-Open console runned server:
+For open console runned server:
 > screen -r ioq3ded
 
 For check server started (find **ioq3ded** in list):
