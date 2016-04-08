@@ -25,7 +25,10 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 
 
 Dedicated server has runned in other screen (screen name is **ioq3ded**)  
-Open ioquake3 console:
+Open console runned server:
 > screen -r ioq3ded
+
+For check server started (find **ioq3ded** in list):
+> screen -list
 
 Server endpoint: **\<your_rpi_ip\>:27960**
