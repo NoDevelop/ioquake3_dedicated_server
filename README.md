@@ -1,5 +1,5 @@
 # ioquake3_dedicated_server
-My ioQuake 3 Arena dedicated server for hosting on Raspberry PI model B
+My ioQuake 3 Arena dedicated server for hosting on *Raspberry PI model B*
 
 ## How run
 1.Create game folder on your RPI:
