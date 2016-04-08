@@ -8,13 +8,19 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 2.Move into game folder:
 > cd quake3
 
-3.Copy repository:
+3.Install Git:
+> sudo apt-get install git
+
+4.Copy repository:
 > git clone https://github.com/ilmen/ioquake3_dedicated_server.git
 
-4.Make excecutable file *start_server.sh*:
-> chmod +x start_server.sh  
+5.Install **screen**:
+> sudo apt-get install screen
 
-5.Run server:
+6.Make excecutable file *start_server.sh*:
+> chmod +x start_server.sh
+
+7.Run server:
 > ./start_server.sh
 
 
