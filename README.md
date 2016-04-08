@@ -18,4 +18,5 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 > ./start_server.sh
 
 
-Dedicated server has runned in other screen (screen name is **ioq3ded**)
+Dedicated server has runned in other screen (screen name is **ioq3ded**)  
+Endpoint: <your_rpi_ip>:27960
