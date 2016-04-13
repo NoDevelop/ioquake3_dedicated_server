@@ -19,7 +19,7 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 > wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip
 
 6.Unzip files:
-> unzip baseq3.zip
+> unzip -o baseq3.zip
 
 7.Install ***screen***:
 > sudo apt-get install screen
