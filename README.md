@@ -15,7 +15,7 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 > git clone https://github.com/ilmen/ioquake3_dedicated_server.git
 
 5. Copy PAK files:
-> cd base3
+> cd base3  
 > wgetwget -P /path/for/save ftp://ftp.example.org/some_file.iso
 
 6. Unzip files:
