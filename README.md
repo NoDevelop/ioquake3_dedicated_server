@@ -14,12 +14,11 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 4.Copy repository:
 > git clone https://github.com/ilmen/ioquake3_dedicated_server.git  
 
-
-5. Copy PAK files:
+5.Copy PAK files:
 > cd base3  
- wgetwget -P /path/for/save ftp://ftp.example.org/some_file.iso
+> wget -P /path/for/save ftp://ftp.example.org/some_file.iso
 
-6. Unzip files:
+6.Unzip files:
 > tar -x baseq3.zip
 
 7.Install ***screen***:
