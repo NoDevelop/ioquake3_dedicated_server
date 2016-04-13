@@ -14,13 +14,20 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 4.Copy repository:
 > git clone https://github.com/ilmen/ioquake3_dedicated_server.git
 
-5.Install ***screen***:
+5. Copy PAK files:
+> cd base3
+> wgetwget -P /path/for/save ftp://ftp.example.org/some_file.iso
+
+6. Unzip files:
+> tar -x baseq3.zip
+
+7.Install ***screen***:
 > sudo apt-get install screen
 
-6.Make excecutable file *start_server.sh*:
+8.Make excecutable file *start_server.sh*:
 > chmod +x start_server.sh
 
-7.Run server:
+9.Run server:
 > ./start_server.sh
 
 ## Hints
