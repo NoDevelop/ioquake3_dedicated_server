@@ -16,10 +16,10 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 
 5.Copy PAK files:
 > cd base3  
-> wget -P /path/for/save ftp://ftp.example.org/some_file.iso
+> wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip?dl=1
 
 6.Unzip files:
-> tar -x baseq3.zip
+> unzip baseq3.zip
 
 7.Install ***screen***:
 > sudo apt-get install screen
