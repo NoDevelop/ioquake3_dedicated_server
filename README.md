@@ -16,7 +16,7 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 
 5.Copy PAK files:
 > cd baseq3  
-> wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip?dl=1
+> wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip
 
 6.Unzip files:
 > unzip baseq3.zip
