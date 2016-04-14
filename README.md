@@ -1,6 +1,8 @@
 # ioquake3_dedicated_server
 My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 
+The first point - I'm from Russia:)
+
 ## How run
 1.Create game folder on your RPI:
 > mkdir quake3
@@ -14,7 +16,7 @@ My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
 4.Copy repository:
 > git clone https://github.com/ilmen/ioquake3_dedicated_server.git  
 
-5.Copy PAK files:
+5.Get correct PAK files:
 > cd baseq3  
 > wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip
 
