@@ -1,5 +1,6 @@
 # ioquake3_dedicated_server
-My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***  
+My ioQuake 3 Arena dedicated server for hosting on ***Raspberry PI model B***
+
 ***This manual correct only for Raspbian OS***
 
 The first point - I'm from Russia:)
