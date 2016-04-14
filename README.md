@@ -14,7 +14,7 @@ The first point - I'm from Russia:)
 > sudo apt-get install git
 
 4.Copy repository:
-> git clone https://github.com/ilmen/ioquake3_dedicated_server.git  
+> git https://github.com/ilmen-sandbox/ioquake3_dedicated_server.git
 
 5.Get correct PAK files:
 > cd baseq3  
