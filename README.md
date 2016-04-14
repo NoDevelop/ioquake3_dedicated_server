@@ -18,7 +18,7 @@ The first point - I'm from Russia:)
 4.Copy repository:
 > git https://github.com/ilmen-sandbox/ioquake3_dedicated_server.git
 
-5.Get correct PAK files:
+5.Get full PAK files (not necessarily, but it is desirable):
 > cd baseq3  
 > wget https://www.dropbox.com/s/c4logcn2guec8xh/baseq3.zip
 
