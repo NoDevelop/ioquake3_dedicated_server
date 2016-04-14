@@ -42,6 +42,6 @@ For open console runned server:
 For check server started (find **ioq3ded** in list):
 > screen -list
 
-Gematype and default map settings stored in **ioq3ded_start.sh**
+Default gametype and map settings stored in **ioq3ded_start.sh**
 
 Server endpoint: **\<your_rpi_ip\>:27960**
